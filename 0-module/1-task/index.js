@@ -1,3 +1,10 @@
 function sum(m, n) {
-  // ваш код...
+  let sumNumber = m + n;
+  console.log(sumNumber);
 }
+
+sum(1,1)
+sum(2,5)
+
+
+
