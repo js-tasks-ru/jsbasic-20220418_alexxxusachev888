@@ -1,6 +1,7 @@
 function sum(m, n) {
   let sumNumber = m + n;
-  console.log(sumNumber);
+  
+  return sumNumber
 }
 
 sum(1,1)
