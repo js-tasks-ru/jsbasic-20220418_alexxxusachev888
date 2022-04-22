@@ -1,3 +1,11 @@
 function sum(m, n) {
-  // ваш код...
+  let sumNumber = m + n;
+  
+  return sumNumber
 }
+
+sum(1,1)
+sum(2,5)
+
+
+
